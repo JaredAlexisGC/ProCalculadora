@@ -1,1 +1,1 @@
-Proyecto de tarea calculadora estandar y centifica
+Proyecto de tarea calculadora estandar y cientifica
